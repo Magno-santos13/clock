@@ -1,7 +1,7 @@
-<h1 align="center"> Relógio </h1>
+<h1 align="center"> clock </h1>
 
 <p align="center">
-    <img alt="Relógio" src=".github/preview.png">
+    <img alt="clock" src=".github/preview.png">
 </p>
 
 ## 🚀 Tecnologias
